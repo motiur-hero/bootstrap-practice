@@ -1,0 +1,84 @@
+body{
+    
+    background:lightblue;
+   
+}
+
+h1{color:green;}
+
+.navbar{width:98%;
+	height:60px;
+	background-color:black;
+	color:black;
+}
+.brand{float:left;
+padding-left:10px;
+	margin:0 auto;
+	padding-top: 15px;
+	color: red;
+
+}
+ul li a{
+	text-decoration:none;
+	color:white;
+	padding-right:20px;
+	font-size:15px;
+	padding-top:15px;
+	
+}
+ul li{float:right;
+	display:inline;
+}
+.nav{;
+float:right;}
+ul li a:hover{
+	color:red;
+	font-size:20px;
+}
+
+ div.mainbox{ display:inline-block;
+    float:left;
+	margin-right:20px;
+	margin-top:20px;
+text-align:center;
+margin-left:15px;
+	}
+	
+	
+	.maindiv .mainbox:hover{border: 1px solid orange;
+}
+
+.mainbox{    
+width: 326px;
+    background: #ffffff1a;
+    padding: 30px;
+    font-size: 1;
+    border: 1px solid #080808;
+    text-align: center;
+	
+}
+   
+
+
+
+.blocktitle {
+    font-family: arial black;
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-top: 32px;
+}
+ .blocktitle:hover{font-size:21px;}
+
+.dollarsign {
+    color: #ffc107;
+    background: #dedcdc;
+    padding: 9px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 40px;
+}
+.dollarsign:hover{font-size:42px;}
+div p {
+    color: #5d1c1c;
+    font-size: 16px;
+}
